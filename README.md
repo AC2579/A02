@@ -6,7 +6,7 @@ I don't like using webstorm as it makes you sign up for stuff, but if your looki
 2. **Clone** A clone is a full copy of a repository, including all logging and versions of files.
 3. **Commit** Commit is a command that acts as a save point in a project, which uploads it to the cloud.
 4. **Fetch** Use git fetch to retrieve new work done by other people.
-5. **GIT** Git is a DevOps tool used for source code management.
+5. **GIT** Git is a DevOps tool used for source code management, that is buildt around github.
 6. **Github** GitHub is a developer platform that allows developers to create, store, manage and share their code. 
 7. **Merge** You can merge different branches into a single one or even other code you fetched.
 8. **Merge Conflict** Merge conflict is when a problem occurs when you merge
