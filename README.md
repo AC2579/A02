@@ -1,6 +1,6 @@
 # A02
 Repository for A02
-# this is a Repository for A02 asignment.
+# This is a Repository for A02 asignment.
 I don't like using webstorm as it makes you sign up for stuff, but if your looking for a IDE I'd recomend searching up one for HTML. Or, I recomend using VS Code. To use VS Code or VSC you first have to download a installer for your browser. Each browser has a different installer so make sure to pick the right one. After you download the installer, you can run it to install VSC and then go through the process of setting it up. Here is a LINK: https://code.visualstudio.com/ 
 1. **Branch** In Git, a branch is a new/separate version of the main repository
 2. **Clone** A clone is a full copy of a repository, including all logging and versions of files.
